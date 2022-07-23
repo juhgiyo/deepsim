@@ -23,6 +23,6 @@ If you reference or use DeepSim in your research, please cite:
 The source code is released under [Apache 2.0](https://aws.amazon.com/apache-2-0/).
 
 ## Resources
-* [DeepSim Gazebo Plugin](https://github.com/aws-deepracer/deepsim/tree/main/deepsim_gazebo_plugin)
-* [DeepSim Messages](https://github.com/aws-deepracer/deepsim/tree/main/deepsim_msgs)
-* [Unified Distributed Environment](https://github.com/aws-deepracer/ude)
+* [DeepSim Gazebo Plugin](https://github.com/juhgiyo/deepsim/tree/main/deepsim_gazebo_plugin)
+* [DeepSim Messages](https://github.com/juhgiyo/deepsim/tree/main/deepsim_msgs)
+* [Unified Distributed Environment](https://github.com/juhgiyo/ude)
